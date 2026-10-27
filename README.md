@@ -1,5 +1,7 @@
 # Auto Utilities for Project Highrise
 
+![Auto Utilities](assets/logo.png)
+
 Stop clicking pipes floor by floor. Auto Utilities wires power, phone, cable TV, water, gas and HVAC across every floor of your tower, and copies your utility closets up and down the building for you.
 
 A Side Order Games mod.
