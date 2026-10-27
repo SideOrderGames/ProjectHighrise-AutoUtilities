@@ -56,6 +56,10 @@ powershell -ExecutionPolicy Bypass -File build.ps1 -Install
 
 `build.ps1` compiles with the .NET Framework `csc.exe` against the game's own assemblies and a BepInEx 5 (x86) install in the game folder. `package.ps1 -Version x.y.z` builds the release zip.
 
+## Support
+
+Auto Utilities is free. If it saved you some clicking, you can [buy me a coffee on Ko-fi](https://ko-fi.com/sideordergames). Bugs and ideas go in [Issues](../../issues).
+
 ## Credits
 
 - Inspired by Uuugggg's [TD Enhancement Pack](https://github.com/alextd/ProjectHighrise-TDEnhancementPack).
