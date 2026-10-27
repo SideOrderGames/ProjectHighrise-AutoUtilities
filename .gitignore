@@ -1,0 +1,10 @@
+# Decompiled game code: the game's property, never commit
+_decomp/
+# Downloaded tools (ILSpy, BepInEx)
+_tools/
+# Build and release output
+build/
+dist/
+# Local dev helpers
+install-when-closed.ps1
+install-pending.log
