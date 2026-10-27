@@ -6,6 +6,8 @@ Stop clicking pipes floor by floor. Auto Utilities wires power, phone, cable TV,
 
 A Side Order Games mod.
 
+![Extend to all floors](assets/screenshots/05-extend-closeup.jpg)
+
 ## Features
 
 - **Auto-wiring.** Every floor that can reach a working line gets fully wired, for every utility you have. Runs on its own while the clock is running.
