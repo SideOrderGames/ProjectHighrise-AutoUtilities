@@ -6,6 +6,8 @@ Stop clicking pipes floor by floor. Auto Utilities wires power, phone, cable TV,
 
 A Side Order Games mod.
 
+**See it in 20 seconds:** [watch the Short on YouTube](https://youtube.com/shorts/ptRq0Ky-MTE)
+
 ![Extend to all floors](assets/screenshots/05-extend-closeup.jpg)
 
 ## Features
